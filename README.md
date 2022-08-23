@@ -1,5 +1,5 @@
 ![LICENSE](https://img.shields.io/badge/license-MIT-green)
-![Language](https://img.shields.io/badge/Language-javacript-blue.svg)
+![Language](https://img.shields.io/badge/Language-TypeScript-blue.svg)
 
 ## 数睿鸿雁SDK Web文档
 
