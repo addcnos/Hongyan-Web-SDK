@@ -18,7 +18,6 @@ SDK 兼容主流浏览器(不支持IE)
 
 ```
 npm i @addcnos/hongyan-web-sdk
-
 ```
 
 方法二：直接引用js:
