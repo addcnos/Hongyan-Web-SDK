@@ -50,7 +50,7 @@ im.connect({token:_token});
 
 ```js
 //发送消息
-im.sendMessage({conversationID: _conversationID;type: _type,content:_content;push:_push})
+im.sendMessage({conversationID: _conversationID,type: _type,content:_content;push:_push})
 ```
 | 参数        | 类型    |  说明  |
 | --------   | -----:  | :----: |
@@ -281,7 +281,7 @@ im.uploadImage(file)
 ## 版本更新说明
 #### v1.0.1 版本（最新）
 
-更新日期：2022年11月25日<br>
+更新日期：2022年11月28日<br>
 1.依赖升级<br>
 2.文档修改<br>
 #### v1.0.0 版本
